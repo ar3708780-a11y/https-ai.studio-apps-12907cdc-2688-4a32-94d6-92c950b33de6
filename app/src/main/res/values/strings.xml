@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">Do+Du</string>
+    <string name="nav_feed">Feed</string>
+    <string name="nav_explore">Explore</string>
+    <string name="nav_upload">Share Video</string>
+    <string name="nav_daman_music">Daman Music</string>
+    <string name="nav_profile">Profile</string>
+    <string name="tab_uploads">Videos</string>
+    <string name="tab_clips">Clips</string>
+    <string name="tab_liked">Liked</string>
+    <string name="edit_profile">Edit Profile</string>
+    <string name="save_profile">Save Changes</string>
+    <string name="unique_username">Username</string>
+    <string name="bio">Biography</string>
+    <string name="avatar_optional">Profile Picture</string>
+    <string name="upload_gaming_video">Share Video</string>
+    <string name="video_title">Video Title</string>
+    <string name="game_title">Game / Tag</string>
+    <string name="video_description">Description</string>
+    <string name="daman_music_hub">Daman Music &amp; Audio Hub</string>
+</resources>

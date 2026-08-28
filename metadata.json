@@ -1,0 +1,6 @@
+{
+  "name": "Do+Du",
+  "description": "Do+Du online gaming video sharing platform with Video Studio for making & editing clips, official software update website portal, gaming audio hub, user profile system, and adaptive AVN rail navigation in Geometric Balance theme",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
